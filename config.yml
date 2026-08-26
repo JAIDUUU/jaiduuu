@@ -1,0 +1,104 @@
+# ==============================================================================
+# JAIDUUU — Animated GitHub Profile Configuration
+# Edit this file when you want to change the profile.
+# ==============================================================================
+
+github_username: "JAIDUUU"
+display_name: "JAIDUUU"
+headline: "⚡ Building Backends That Actually Work"
+tagline: "Python • FastAPI • PostgreSQL • SQLAlchemy"
+
+typing_lines:
+  - "Backend Developer | Python & FastAPI"
+  - "Building REST APIs & Database Systems"
+  - "PostgreSQL • SQLAlchemy • Authentication"
+  - "Data Analysis • Machine Learning"
+  - "Learning, Building, Shipping"
+
+bio: |
+  I'm a backend-focused developer who likes building practical systems instead of just tutorial projects.
+
+  * ⚡ **Backend:** Python, FastAPI, REST APIs, authentication and security
+  * 🗄️ **Data:** PostgreSQL, SQL, SQLAlchemy, database design and joins
+  * 📊 **Data / ML:** NumPy, Pandas, Matplotlib and machine learning fundamentals
+  * 🌐 **Full Stack:** HTML, CSS, JavaScript with backend-first application development
+  * 🚀 **Focus:** Building real-world, industry-oriented projects and improving every day
+
+links:
+  linkedin: ""
+  x: ""
+  email: ""
+  portfolio: ""
+
+skills:
+  - name: "Python"
+    level: 90
+    category: "Backend"
+  - name: "FastAPI"
+    level: 85
+    category: "Backend"
+  - name: "PostgreSQL"
+    level: 84
+    category: "Database"
+  - name: "SQL / Joins"
+    level: 84
+    category: "Database"
+  - name: "SQLAlchemy"
+    level: 80
+    category: "Backend"
+  - name: "REST APIs"
+    level: 82
+    category: "Backend"
+  - name: "Pandas / NumPy"
+    level: 78
+    category: "Data"
+  - name: "Machine Learning"
+    level: 68
+    category: "AI / ML"
+
+tech_stack:
+  - category: "Backend"
+    icons: "python,fastapi"
+  - category: "Database"
+    icons: "postgresql,mysql"
+  - category: "Data & ML"
+    icons: "numpy,pandas,matplotlib,sklearn"
+  - category: "Frontend"
+    icons: "html,css,javascript"
+  - category: "Tools & Systems"
+    icons: "git,github,vscode,linux"
+
+human_side:
+  - title: "🧠 Build Philosophy"
+    desc: "Understand the problem first, then build the simplest system that solves it well."
+  - title: "⚙️ Current Focus"
+    desc: "Going deeper into backend engineering, PostgreSQL, APIs, authentication and deployment."
+  - title: "🚀 Project Style"
+    desc: "Prefer real-world projects that teach architecture, debugging and production thinking."
+
+bento:
+  production_focus:
+    - title: "⚡ Backend Engineering"
+      desc: "FastAPI services, REST APIs, authentication and security"
+    - title: "🗄️ Database Systems"
+      desc: "PostgreSQL, SQL, joins, constraints and SQLAlchemy ORM"
+    - title: "📊 Data & ML"
+      desc: "NumPy, Pandas, visualization and practical ML foundations"
+  milestones:
+    - badge: "🐍 Python First"
+      desc: "Building a strong Python backend foundation"
+    - badge: "🚀 Real-World Projects"
+      desc: "Focused on industry-style applications"
+    - badge: "📚 Continuous Learning"
+      desc: "Expanding from APIs and databases into systems and ML"
+
+footer_text: "Build it. Understand it. Ship it."
+
+portrait:
+  source_image: "assets/source-photo.jpg"
+  grid_spacing_px: 8
+  canvas_size_px: 1000
+  color_palette: "duotone"
+  duotone_light: "#d8b4fe"
+  duotone_dark: "#12051f"
+  reveal_style: "diagonal"
