@@ -27,7 +27,6 @@ I'm a backend-focused developer who likes building practical systems instead of 
 
 * ⚡ **Backend:** Python, FastAPI, REST APIs, authentication and security
 * 🗄️ **Data:** PostgreSQL, SQL, SQLAlchemy, database design and joins
-* 📊 **Data / ML:** NumPy, Pandas, Matplotlib and machine learning fundamentals
 * 🌐 **Full Stack:** HTML, CSS, JavaScript with backend-first application development
 * 🚀 **Focus:** Building real-world, industry-oriented projects and improving every day
 
@@ -50,7 +49,6 @@ I'm a backend-focused developer who likes building practical systems instead of 
 | :--- | :--- |
 | **Backend** | <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" /> |
-| **Data & ML** | <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn&theme=dark" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" /> |
 | **Tools & Systems** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /> |
 
