@@ -1,148 +1,329 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 430" width="100%" height="auto" fill="none">
-  <!-- Main Card Container -->
+
+  <!-- Main Card -->
   <rect width="940" height="430" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 
-  <!-- Master Header -->
+  <!-- Header -->
   <g transform="translate(24, 34)">
     <rect x="0" y="0" width="28" height="20" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
     <text x="6" y="14" fill="#ffffff" font-family="monospace" font-size="12" font-weight="bold">~/</text>
-    <text x="38" y="15" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Engineering Showcase &amp; Performance</text>
-    <text x="892" y="14" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">Production Output • Telemetry • Language Mastery</text>
+
+    <text x="38" y="15"
+          fill="#ffffff"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="14"
+          font-weight="600">
+      Zaid • Backend Developer
+    </text>
+
+    <text x="892" y="14"
+          text-anchor="end"
+          fill="#8b949e"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="11">
+      Python • FastAPI • PostgreSQL
+    </text>
+
     <line x1="0" y1="26" x2="892" y2="26" stroke="#21262d" stroke-width="1"/>
   </g>
 
-  <!-- ========================================================================= -->
-  <!-- QUADRANT 1: Production Output (Top-Left) -->
-  <!-- ========================================================================= -->
+
+  <!-- TOP LEFT: Backend -->
   <g transform="translate(24, 75)">
     <rect width="430" height="160" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-    <text x="16" y="24" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600">🚀 Production Output &amp; Focus</text>
+
+    <text x="16" y="24"
+          fill="#ffffff"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+          font-size="13"
+          font-weight="600">
+      ⚡ Backend Development
+    </text>
+
     <line x1="16" y1="34" x2="414" y2="34" stroke="#30363d" stroke-width="1"/>
-    <g transform="translate(16, 46)">
 
-        <g transform="translate(0, 0)">
-          <text x="0" y="10" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600">⚡ Backend Engineering</text>
-          <text x="0" y="25" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11">FastAPI services, REST APIs, authentication and security</text>
-        </g>
+    <g transform="translate(16, 50)">
 
-        <g transform="translate(0, 36)">
-          <text x="0" y="10" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600">🗄️ Database Systems</text>
-          <text x="0" y="25" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11">PostgreSQL, SQL, joins, constraints and SQLAlchemy ORM</text>
-        </g>
+      <text x="0" y="12"
+            fill="#e6edf3"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="12"
+            font-weight="600">
+        Python
+      </text>
 
-        <g transform="translate(0, 72)">
-          <text x="0" y="10" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600">📊 Data &amp; ML</text>
-          <text x="0" y="25" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11">NumPy, Pandas, visualization and practical ML foundations</text>
-        </g>
+      <text x="0" y="28"
+            fill="#8b949e"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="11">
+        Working with Python for backend development
+      </text>
+
+
+      <text x="0" y="62"
+            fill="#e6edf3"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="12"
+            font-weight="600">
+        FastAPI
+      </text>
+
+      <text x="0" y="78"
+            fill="#8b949e"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="11">
+        Building APIs and backend services
+      </text>
+
+
+      <text x="0" y="112"
+            fill="#e6edf3"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="12"
+            font-weight="600">
+        SQLAlchemy
+      </text>
+
+      <text x="0" y="128"
+            fill="#8b949e"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="11">
+        Learning and working with ORM
+      </text>
+
     </g>
   </g>
 
-  <!-- ========================================================================= -->
-  <!-- QUADRANT 2: Engineering Telemetry (Top-Right) -->
-  <!-- ========================================================================= -->
+
+  <!-- TOP RIGHT: Database -->
   <g transform="translate(486, 75)">
     <rect width="430" height="160" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-    <text x="16" y="24" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600">⚡ Engineering Telemetry</text>
-    <text x="414" y="24" text-anchor="end" fill="#3fb950" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600">● Native GitHub Data</text>
+
+    <text x="16" y="24"
+          fill="#ffffff"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+          font-size="13"
+          font-weight="600">
+      🗄️ Database
+    </text>
+
     <line x1="16" y1="34" x2="414" y2="34" stroke="#30363d" stroke-width="1"/>
-    
-    <!-- Metric 1: Annual Contributions -->
-    <g transform="translate(16, 48)">
-      <rect width="190" height="46" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-      <text x="12" y="20" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="bold">665</text>
-      <text x="12" y="36" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Annual Contributions</text>
-    </g>
 
-    <!-- Metric 2: Public Repos -->
-    <g transform="translate(224, 48)">
-      <rect width="190" height="46" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-      <text x="12" y="20" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="bold">24</text>
-      <text x="12" y="36" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Public Repositories</text>
-    </g>
+    <g transform="translate(16, 50)">
 
-    <!-- Metric 3: Total Stars -->
-    <g transform="translate(16, 102)">
-      <rect width="190" height="46" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-      <text x="12" y="20" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="bold">12 ★</text>
-      <text x="12" y="36" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Total GitHub Stars</text>
-    </g>
+      <text x="0" y="12"
+            fill="#e6edf3"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="12"
+            font-weight="600">
+        PostgreSQL
+      </text>
 
-    <!-- Metric 4: Activity Grade -->
-    <g transform="translate(224, 102)">
-      <rect width="190" height="46" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-      <text x="12" y="20" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="bold">Top 10%</text>
-      <text x="12" y="36" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10">Consistent Velocity</text>
+      <text x="0" y="28"
+            fill="#8b949e"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="11">
+        Working with PostgreSQL databases
+      </text>
+
+
+      <text x="0" y="62"
+            fill="#e6edf3"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="12"
+            font-weight="600">
+        SQL
+      </text>
+
+      <text x="0" y="78"
+            fill="#8b949e"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="11">
+        Queries, tables, relationships and database operations
+      </text>
+
+
+      <text x="0" y="112"
+            fill="#e6edf3"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="12"
+            font-weight="600">
+        SQLAlchemy ORM
+      </text>
+
+      <text x="0" y="128"
+            fill="#8b949e"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="11">
+        Connecting backend applications with databases
+      </text>
+
     </g>
   </g>
 
-  <!-- ========================================================================= -->
-  <!-- QUADRANT 3: Milestones & Accolades (Bottom-Left) -->
-  <!-- ========================================================================= -->
+
+  <!-- BOTTOM LEFT: GitHub -->
   <g transform="translate(24, 250)">
     <rect width="430" height="160" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-    <text x="16" y="24" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600">🏆 Key Milestones &amp; Accolades</text>
+
+    <text x="16" y="24"
+          fill="#ffffff"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+          font-size="13"
+          font-weight="600">
+      🐙 GitHub Activity
+    </text>
+
     <line x1="16" y1="34" x2="414" y2="34" stroke="#30363d" stroke-width="1"/>
-    <g transform="translate(16, 46)">
 
-        <g transform="translate(0, 0)">
-          <text x="0" y="10" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600">🐍 Python First</text>
-          <text x="0" y="25" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11">Building a strong Python backend foundation</text>
-        </g>
+    <!-- Commits -->
+    <g transform="translate(16, 50)">
+      <rect width="190" height="70" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 
-        <g transform="translate(0, 36)">
-          <text x="0" y="10" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600">🚀 Real-World Projects</text>
-          <text x="0" y="25" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11">Focused on industry-style applications</text>
-        </g>
+      <text x="12" y="30"
+            fill="#ffffff"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="24"
+            font-weight="bold">
+        ~10
+      </text>
 
-        <g transform="translate(0, 72)">
-          <text x="0" y="10" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600">📚 Continuous Learning</text>
-          <text x="0" y="25" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11">Expanding from APIs and databases into systems and ML</text>
-        </g>
+      <text x="12" y="50"
+            fill="#8b949e"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="10">
+        GitHub Commits
+      </text>
     </g>
+
+    <!-- Focus -->
+    <g transform="translate(224, 50)">
+      <rect width="190" height="70" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+      <text x="12" y="30"
+            fill="#ffffff"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="16"
+            font-weight="bold">
+        Backend
+      </text>
+
+      <text x="12" y="50"
+            fill="#8b949e"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="10">
+        Current Focus
+      </text>
+    </g>
+
+    <text x="16" y="142"
+          fill="#8b949e"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+          font-size="11">
+      Building skills through hands-on projects
+    </text>
+
   </g>
 
-  <!-- ========================================================================= -->
-  <!-- QUADRANT 4: Language Mastery Spectrum (Bottom-Right) -->
-  <!-- ========================================================================= -->
+
+  <!-- BOTTOM RIGHT: Current Stack -->
   <g transform="translate(486, 250)">
     <rect width="430" height="160" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-    <text x="16" y="24" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600">📊 Language Mastery Spectrum</text>
-    <text x="414" y="24" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11">Excl. Notebook Outputs</text>
+
+    <text x="16" y="24"
+          fill="#ffffff"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+          font-size="13"
+          font-weight="600">
+      🛠️ Current Tech Stack
+    </text>
+
     <line x1="16" y1="34" x2="414" y2="34" stroke="#30363d" stroke-width="1"/>
-    
-    <g transform="translate(22, 50)">
-      <!-- Spectrum Bar -->
-      <g>
-        <rect x="0" y="0" width="385" height="10" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-        <rect x="0.0" y="0" width="187.1" height="10" rx="2" fill="#ffffff"/><rect x="187.1" y="0" width="129.7" height="10" rx="2" fill="#8b949e"/><rect x="316.9" y="0" width="50.4" height="10" rx="2" fill="#565e69"/><rect x="367.3" y="0" width="17.3" height="10" rx="2" fill="#30363d"/>
-      </g>
-      <!-- Legend -->
-      <g transform="translate(0, 18)">
 
-        <g transform="translate(0, 24)">
-          <circle cx="5" cy="5" r="4" fill="#ffffff"/>
-          <text x="16" y="9" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">TypeScript</text>
-          <text x="180" y="9" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11">48.6%</text>
-        </g>
+    <g transform="translate(16, 52)">
 
-        <g transform="translate(200, 24)">
-          <circle cx="5" cy="5" r="4" fill="#8b949e"/>
-          <text x="16" y="9" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">Kotlin</text>
-          <text x="180" y="9" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11">33.7%</text>
-        </g>
+      <!-- Python -->
+      <rect x="0" y="0" width="118" height="34" rx="6"
+            fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <text x="59" y="22"
+            text-anchor="middle"
+            fill="#e6edf3"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="11"
+            font-weight="600">
+        Python
+      </text>
 
-        <g transform="translate(0, 50)">
-          <circle cx="5" cy="5" r="4" fill="#565e69"/>
-          <text x="16" y="9" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">Python</text>
-          <text x="180" y="9" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11">13.1%</text>
-        </g>
+      <!-- FastAPI -->
+      <rect x="130" y="0" width="118" height="34" rx="6"
+            fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <text x="189" y="22"
+            text-anchor="middle"
+            fill="#e6edf3"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="11"
+            font-weight="600">
+        FastAPI
+      </text>
 
-        <g transform="translate(200, 50)">
-          <circle cx="5" cy="5" r="4" fill="#30363d"/>
-          <text x="16" y="9" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">HTML/CSS</text>
-          <text x="180" y="9" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11">4.5%</text>
-        </g>
-      </g>
+      <!-- PostgreSQL -->
+      <rect x="260" y="0" width="138" height="34" rx="6"
+            fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <text x="329" y="22"
+            text-anchor="middle"
+            fill="#e6edf3"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="11"
+            font-weight="600">
+        PostgreSQL
+      </text>
+
+
+      <!-- SQLAlchemy -->
+      <rect x="0" y="48" width="118" height="34" rx="6"
+            fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <text x="59" y="70"
+            text-anchor="middle"
+            fill="#e6edf3"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="11"
+            font-weight="600">
+        SQLAlchemy
+      </text>
+
+      <!-- SQL -->
+      <rect x="130" y="48" width="118" height="34" rx="6"
+            fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <text x="189" y="70"
+            text-anchor="middle"
+            fill="#e6edf3"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="11"
+            font-weight="600">
+        SQL
+      </text>
+
+      <!-- Backend -->
+      <rect x="260" y="48" width="138" height="34" rx="6"
+            fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <text x="329" y="70"
+            text-anchor="middle"
+            fill="#e6edf3"
+            font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+            font-size="11"
+            font-weight="600">
+        Backend
+      </text>
+
     </g>
+
+    <text x="16" y="144"
+          fill="#8b949e"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+          font-size="11">
+      Learning • Building • Improving
+    </text>
+
   </g>
+
 </svg>
