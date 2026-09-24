@@ -1,92 +1,127 @@
 <div align="center">
-  <img src="assets/portrait.svg" alt="JAIDUUU Dot-Matrix Portrait" width="340" />
-  
-  <br /><br />
 
-  # JAIDUUU
-  
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=36&lines=Backend%20Developer%20%7C%20Python%20%26%20FastAPI;Building%20REST%20APIs%20%26%20Production-Ready%20Backends;AIML%20%7C%20Data%20Analysis%20%7C%20Machine%20Learning;Agentic%20AI%20%7C%20LangChain%20%7C%20LangGraph;Java%20%7C%20DSA%20%7C%20Problem%20Solving;Founder%20%40%20AutoIconic%20%7C%20Building%20%26%20Shipping" alt="Typing Subtitle" />
-  </div>
+<img src="assets/portrait.svg" width="280" alt="JAIDUUU" />
 
-  ### ⚡ Building AI-Powered Backends & Intelligent Systems
-  
-  **Python • FastAPI • AIML • Agentic AI • Java & DSA**
+# JAIDUUU
 
-  <br />
+### AI/ML • Backend • Agentic AI
 
-  
+**Building useful software, learning deeply, and shipping projects.**
+
+<p>
+  <a href="https://github.com/JAIDUUU"><img src="https://img.shields.io/github/followers/JAIDUUU?label=Followers&style=flat-square" /></a>
+  <img src="https://komarev.com/ghpvc/?username=JAIDUUU&style=flat-square&label=Profile+Views" />
+</p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👋 About Me
 
-I'm a backend-focused developer building practical software systems across backend engineering, AI/ML and agentic AI.
+I'm a developer focused on **AI/ML, backend engineering, and agentic AI**. I like turning what I learn into projects instead of keeping everything in notebooks and tutorials.
 
-* ⚡ **Backend:** Python, FastAPI, REST APIs, authentication, SQLAlchemy and PostgreSQL
-* 🤖 **AI / ML:** NumPy, Pandas, Matplotlib, machine learning fundamentals and AIML
-* 🧠 **Agentic AI:** Exploring LangChain, LangGraph and intelligent workflow automation
-* ☕ **Problem Solving:** Java with DSA, algorithms and data structures
-* 🚀 **Builder:** Founder @ AutoIconic — focused on turning ideas into useful AI-powered systems
-* 📚 **Current Goal:** Keep learning by building real projects instead of only following tutorials
-
----
-
-### 🧠 Technical Capability & Skills Radar
-
-<div align="center">
-  <img src="assets/skills.svg" alt="Technical Capability & Skills Radar" width="100%" />
-</div>
-
+- 🤖 Exploring **Machine Learning & AI**
+- 🧠 Building with **LangChain & LangGraph**
+- ⚡ Developing APIs with **Python & FastAPI**
+- ☕ Practicing **Java + DSA**
+- 🗄️ Working with **PostgreSQL, SQL & SQLAlchemy**
+- 🚀 Building projects that make me better at real-world engineering
 
 ---
 
-### 🛠️ Core Tooling & Technologies
+## 🧭 What I'm Working On
 
-<div align="center">
+```text
+AI / ML            █████████████████░░░  Learning + Building
+Agentic AI         ████████████████░░░░  LangChain + LangGraph
+Backend            ██████████████████░░  FastAPI + APIs + Databases
+Java + DSA         ██████████████░░░░░░  Problem Solving
+``` 
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Backend** | <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow&theme=dark" /> |
-| **Agentic AI** | <img src="https://skillicons.dev/icons?i=python&theme=dark" /> |
-| **Java & DSA** | <img src="https://skillicons.dev/icons?i=java&theme=dark" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" /> |
-| **Tools & Systems** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /> |
-
-</div>
+> Progress over perfection. Build → break → understand → improve.
 
 ---
 
-### 📈 Activity & Contribution Flow
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="assets/contributions.svg" alt="Activity & Contribution Flow" width="100%" />
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `LangChain` `LangGraph`
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=fastapi,postgresql,mysql,git,github,linux,vscode" />
+
 </div>
 
 ---
 
-### ⚡ Engineering Showcase
+## 🚀 Things I Build
+
+| Area | What I'm building |
+| --- | --- |
+| 🤖 **AI / ML** | Machine learning experiments, data workflows and AI-powered applications |
+| 🧠 **Agentic AI** | Agents, tools, workflows and multi-step automation with LangChain/LangGraph |
+| ⚡ **Backend** | FastAPI services, REST APIs, authentication and database-driven applications |
+| ☕ **Java + DSA** | Data structures, algorithms and problem-solving practice |
+
+---
+
+## 📌 Featured Work
 
 <div align="center">
-  <img src="assets/bento.svg" alt="Engineering Showcase & Performance" width="100%" />
+
+<a href="https://github.com/JAIDUUU?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+> More projects are being built as I move deeper into AI, backend systems and agentic workflows.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JAIDUUU&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JAIDUUU&theme=tokyonight&hide_border=true" height="165" />
+
 </div>
 
 ---
 
-### 🎮 The Human Side
+## 🌱 Currently Learning
 
-I'm not just a code machine. When the IDE closes, here is who I am:
-
-* **🧠 Build Philosophy:** Learn the fundamentals, understand the problem, then build something that actually works.
-* **⚙️ Current Focus:** AIML, FastAPI, Agentic AI with LangChain/LangGraph, and Java with DSA.
-* **🚀 Builder Mindset:** Building practical projects, documenting the journey, and shipping instead of staying stuck in tutorials.
+```text
+Machine Learning       → fundamentals → projects → deeper models
+Agentic AI             → LangChain → LangGraph → real workflows
+Backend Engineering    → FastAPI → databases → production patterns
+Java + DSA             → core Java → DSA → problem solving
+```
 
 ---
 
+## 🤝 Connect
+
 <div align="center">
-  <sub>Learn it. Build it. Ship it.</sub>
+
+<a href="https://github.com/JAIDUUU">GitHub</a> •
+<a href="https://www.linkedin.com/">LinkedIn</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+**Thanks for visiting. Keep building. ⚡**
+
 </div>

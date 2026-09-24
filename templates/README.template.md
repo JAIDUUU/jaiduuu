@@ -27,10 +27,10 @@
 
 ---
 
-### 🧠 Technical Capability & Skills Radar
+### 📡 Technical Capability & Skills Radar
 
 <div align="center">
-  <img src="assets/skills.svg" alt="Technical Capability & Skills Radar" width="100%" />
+  <img src="assets/skills.svg" alt="Technical Capability & Skill Radar" width="100%" />
 </div>
 
 {{ tech_stack_section }}
@@ -44,7 +44,7 @@
 
 ---
 
-### ⚡ Engineering Showcase
+### ⚡ Engineering Showcase & Performance
 
 <div align="center">
   <img src="assets/bento.svg" alt="Engineering Showcase & Performance" width="100%" />

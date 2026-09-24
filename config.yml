@@ -1,109 +1,104 @@
-github_username: JAIDUUU
-display_name: JAIDUUU
-headline: ⚡ Building AI-Powered Backends & Intelligent Systems
-tagline: Python • FastAPI • AIML • Agentic AI • Java & DSA
+# ==============================================================================
+# JAIDUUU — Animated GitHub Profile Configuration
+# Edit this file when you want to change the profile.
+# ==============================================================================
+
+github_username: "JAIDUUU"
+display_name: "JAIDUUU"
+headline: "⚡ Building Backends That Actually Work"
+tagline: "Python • FastAPI • PostgreSQL • SQLAlchemy"
+
 typing_lines:
-- Backend Developer | Python & FastAPI
-- Building REST APIs & Production-Ready Backends
-- AIML | Data Analysis | Machine Learning
-- Agentic AI | LangChain | LangGraph
-- Java | DSA | Problem Solving
-- Founder @ AutoIconic | Building & Shipping
-bio: 'I''m a backend-focused developer building practical software systems across
-  backend engineering, AI/ML and agentic AI.
+  - "Backend Developer | Python & FastAPI"
+  - "Building REST APIs & Database Systems"
+  - "PostgreSQL • SQLAlchemy • Authentication"
+  - "Data Analysis • Machine Learning"
+  - "Learning, Building, Shipping"
 
+bio: |
+  I'm a backend-focused developer who likes building practical systems instead of just tutorial projects.
 
-  * ⚡ **Backend:** Python, FastAPI, REST APIs, authentication, SQLAlchemy and PostgreSQL
+  * ⚡ **Backend:** Python, FastAPI, REST APIs, authentication and security
+  * 🗄️ **Data:** PostgreSQL, SQL, SQLAlchemy, database design and joins
+  * 📊 **Data / ML:** NumPy, Pandas, Matplotlib and machine learning fundamentals
+  * 🌐 **Full Stack:** HTML, CSS, JavaScript with backend-first application development
+  * 🚀 **Focus:** Building real-world, industry-oriented projects and improving every day
 
-  * 🤖 **AI / ML:** NumPy, Pandas, Matplotlib, machine learning fundamentals and AIML
-
-  * 🧠 **Agentic AI:** Exploring LangChain, LangGraph and intelligent workflow automation
-
-  * ☕ **Problem Solving:** Java with DSA, algorithms and data structures
-
-  * 🚀 **Builder:** Founder @ AutoIconic — focused on turning ideas into useful AI-powered
-  systems
-
-  * 📚 **Current Goal:** Keep learning by building real projects instead of only following
-  tutorials'
 links:
-  linkedin: ''
-  x: ''
-  email: ''
-  portfolio: ''
+  linkedin: ""
+  x: ""
+  email: ""
+  portfolio: ""
+
 skills:
-- name: Python
-  level: 90
-  category: Backend
-- name: FastAPI
-  level: 86
-  category: Backend
-- name: PostgreSQL / SQL
-  level: 82
-  category: Database
-- name: SQLAlchemy
-  level: 80
-  category: Backend
-- name: REST APIs
-  level: 84
-  category: Backend
-- name: NumPy / Pandas
-  level: 76
-  category: Data
-- name: Machine Learning
-  level: 68
-  category: AI / ML
-- name: LangChain / LangGraph
-  level: 62
-  category: Agentic AI
-- name: Java / DSA
-  level: 62
-  category: Problem Solving
+  - name: "Python"
+    level: 90
+    category: "Backend"
+  - name: "FastAPI"
+    level: 85
+    category: "Backend"
+  - name: "PostgreSQL"
+    level: 84
+    category: "Database"
+  - name: "SQL / Joins"
+    level: 84
+    category: "Database"
+  - name: "SQLAlchemy"
+    level: 80
+    category: "Backend"
+  - name: "REST APIs"
+    level: 82
+    category: "Backend"
+  - name: "Pandas / NumPy"
+    level: 78
+    category: "Data"
+  - name: "Machine Learning"
+    level: 68
+    category: "AI / ML"
+
 tech_stack:
-- category: Backend
-  icons: python,fastapi
-- category: Database
-  icons: postgresql,mysql
-- category: AI / ML
-  icons: numpy,pandas,sklearn,tensorflow
-- category: Agentic AI
-  icons: python
-- category: Java & DSA
-  icons: java
-- category: Frontend
-  icons: html,css,javascript
-- category: Tools & Systems
-  icons: git,github,vscode,linux
+  - category: "Backend"
+    icons: "python,fastapi"
+  - category: "Database"
+    icons: "postgresql,mysql"
+  - category: "Data & ML"
+    icons: "numpy,pandas,matplotlib,sklearn"
+  - category: "Frontend"
+    icons: "html,css,javascript"
+  - category: "Tools & Systems"
+    icons: "git,github,vscode,linux"
+
 human_side:
-- title: 🧠 Build Philosophy
-  desc: Learn the fundamentals, understand the problem, then build something that
-    actually works.
-- title: ⚙️ Current Focus
-  desc: AIML, FastAPI, Agentic AI with LangChain/LangGraph, and Java with DSA.
-- title: 🚀 Builder Mindset
-  desc: Building practical projects, documenting the journey, and shipping instead
-    of staying stuck in tutorials.
+  - title: "🧠 Build Philosophy"
+    desc: "Understand the problem first, then build the simplest system that solves it well."
+  - title: "⚙️ Current Focus"
+    desc: "Going deeper into backend engineering, PostgreSQL, APIs, authentication and deployment."
+  - title: "🚀 Project Style"
+    desc: "Prefer real-world projects that teach architecture, debugging and production thinking."
+
 bento:
   production_focus:
-  - title: ⚡ Backend Engineering
-    desc: FastAPI services, REST APIs, authentication, PostgreSQL and SQLAlchemy
-  - title: 🤖 AI / ML
-    desc: AIML foundations, data analysis, machine learning and model experimentation
-  - title: 🧠 Agentic AI
-    desc: Exploring LangChain, LangGraph and intelligent workflow automation
+    - title: "⚡ Backend Engineering"
+      desc: "FastAPI services, REST APIs, authentication and security"
+    - title: "🗄️ Database Systems"
+      desc: "PostgreSQL, SQL, joins, constraints and SQLAlchemy ORM"
+    - title: "📊 Data & ML"
+      desc: "NumPy, Pandas, visualization and practical ML foundations"
   milestones:
-  - badge: 🐍 Python Foundation
-    desc: Built a strong Python base and moved into backend + AI/ML
-  - badge: 🚀 AutoIconic
-    desc: Building AI-powered products and automation-focused systems
-  - badge: 📚 Multi-Stack Growth
-    desc: Growing across FastAPI, AIML, Agentic AI and Java + DSA
-footer_text: Learn it. Build it. Ship it.
+    - badge: "🐍 Python First"
+      desc: "Building a strong Python backend foundation"
+    - badge: "🚀 Real-World Projects"
+      desc: "Focused on industry-style applications"
+    - badge: "📚 Continuous Learning"
+      desc: "Expanding from APIs and databases into systems and ML"
+
+footer_text: "Build it. Understand it. Ship it."
+
 portrait:
-  source_image: assets/source-photo.png
+  source_image: "assets/source-photo.jpg"
   grid_spacing_px: 8
   canvas_size_px: 1000
-  color_palette: duotone
-  duotone_light: '#d8b4fe'
-  duotone_dark: '#12051f'
-  reveal_style: diagonal
+  color_palette: "duotone"
+  duotone_light: "#d8b4fe"
+  duotone_dark: "#12051f"
+  reveal_style: "diagonal"
