@@ -256,12 +256,18 @@ def generate_crystal_portrait(config):
         '    <style>',
         "\n".join(css_lines),
         '    </style>',
-        '    <radialGradient id="bgGlow" cx="50%" cy="45%" r="55%">',
+        '    <radialGradient id="bgGlow" cx="50%" cy="45%" r="70%">',
         '      <stop offset="0%" stop-color="#161b22" stop-opacity="1"/>',
-        '      <stop offset="100%" stop-color="#0a0d12" stop-opacity="1"/>',
+        '      <stop offset="58%" stop-color="#0d1117" stop-opacity="1"/>',
+        '      <stop offset="100%" stop-color="#010409" stop-opacity="1"/>',
         '    </radialGradient>',
+        '    <filter id="softBorderGlow" x="-20%" y="-20%" width="140%" height="140%">',
+        '      <feGaussianBlur stdDeviation="7" result="blur"/>',
+        '    </filter>',
         '  </defs>',
-        f'  <rect width="{canvas_size}" height="{canvas_size}" fill="url(#bgGlow)" rx="24"/>'
+        f'  <rect width="{canvas_size}" height="{canvas_size}" fill="url(#bgGlow)" rx="24"/>',
+        f'  <rect x="3" y="3" width="{canvas_size - 6}" height="{canvas_size - 6}" rx="21" fill="none" stroke="#30363d" stroke-width="10" opacity="0.16" filter="url(#softBorderGlow)"/>',
+        f'  <rect x="2" y="2" width="{canvas_size - 4}" height="{canvas_size - 4}" rx="22" fill="none" stroke="#30363d" stroke-width="2" opacity="0.42"/>'
     ]
 
     for g_idx in sorted(groups.keys()):
