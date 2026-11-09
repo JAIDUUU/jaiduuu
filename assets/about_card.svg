@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 320" width="100%" height="auto">
+  <defs>
+    <style>
+      @keyframes speedRTL {
+        0% { transform: translateX(950px); opacity: 0; }
+        10% { opacity: 0.95; }
+        90% { opacity: 0.95; }
+        100% { transform: translateX(-1050px); opacity: 0; }
+      }
+      @keyframes borderPulse {
+        0%, 100% { opacity: 0.5; }
+        50% { opacity: 0.9; }
+      }
+      .beam-rtl { animation: speedRTL linear infinite; }
+      .a-1 { animation-duration: 0.85s; animation-delay: 0.00s; }
+      .a-2 { animation-duration: 0.70s; animation-delay: 0.25s; }
+      .a-3 { animation-duration: 0.95s; animation-delay: 0.10s; }
+      .a-4 { animation-duration: 0.75s; animation-delay: 0.40s; }
+      .a-5 { animation-duration: 0.65s; animation-delay: 0.20s; }
+      .a-6 { animation-duration: 0.80s; animation-delay: 0.50s; }
+      .card-border { animation: borderPulse 3s ease-in-out infinite; }
+    </style>
+    <linearGradient id="aboutBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#140b27"/>
+      <stop offset="50%" stop-color="#0b0617"/>
+      <stop offset="100%" stop-color="#030108"/>
+    </linearGradient>
+    <linearGradient id="purpleBeam" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#6366f1" stop-opacity="0.85"/>
+      <stop offset="90%" stop-color="#c084fc" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="pinkBeam" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#d946ef" stop-opacity="0.85"/>
+      <stop offset="90%" stop-color="#f43f5e" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="1"/>
+    </linearGradient>
+    <filter id="purpleGlow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="2.5" result="glow"/>
+      <feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="920" height="320" rx="16" fill="url(#aboutBg)"/>
+
+  <!-- Speed Lines flowing Right to Left -->
+  <g filter="url(#purpleGlow)">
+    <rect class="beam-rtl a-1" x="0" y="30"  width="520" height="2.2" rx="1.1" fill="url(#purpleBeam)"/>
+    <rect class="beam-rtl a-3" x="0" y="75"  width="640" height="2.8" rx="1.4" fill="url(#pinkBeam)"/>
+    <rect class="beam-rtl a-5" x="0" y="130" width="410" height="1.8" rx="0.9" fill="url(#purpleBeam)"/>
+    <rect class="beam-rtl a-2" x="0" y="185" width="700" height="3.0" rx="1.5" fill="url(#pinkBeam)"/>
+    <rect class="beam-rtl a-6" x="0" y="240" width="480" height="2.0" rx="1.0" fill="url(#purpleBeam)"/>
+    <rect class="beam-rtl a-4" x="0" y="285" width="560" height="2.4" rx="1.2" fill="url(#pinkBeam)"/>
+  </g>
+
+  <!-- Dark glass overlay for sharp text contrast -->
+  <rect x="0" y="0" width="920" height="320" rx="16" fill="#040209" opacity="0.45"/>
+
+  <!-- Content -->
+  <text x="45" y="48" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="0.5">
+    ⚡ About
+  </text>
+  <text x="45" y="78" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="400">
+    Software engineer focused on Agentic AI systems, modern backend architectures, and algorithmic problem-solving.
+  </text>
+  <text x="45" y="98" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="400">
+    Specializing in building stateful multi-agent workflows, scalable APIs, and robust data pipelines.
+  </text>
+
+  <!-- Bullet 1 -->
+  <g transform="translate(45, 125)">
+    <circle cx="10" cy="10" r="5" fill="#a855f7"/>
+    <text x="25" y="14" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600">Agentic AI:</text>
+    <text x="110" y="14" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14">Developing cyclical workflows, triage routers, and automated evaluation systems with LangGraph &amp; LangChain.</text>
+  </g>
+
+  <!-- Bullet 2 -->
+  <g transform="translate(45, 165)">
+    <circle cx="10" cy="10" r="5" fill="#6366f1"/>
+    <text x="25" y="14" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600">Backend Engineering:</text>
+    <text x="185" y="14" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14">Building high-performance, asynchronous REST APIs with Python, FastAPI, and SQLAlchemy.</text>
+  </g>
+
+  <!-- Bullet 3 -->
+  <g transform="translate(45, 205)">
+    <circle cx="10" cy="10" r="5" fill="#ec4899"/>
+    <text x="25" y="14" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600">Databases &amp; Storage:</text>
+    <text x="180" y="14" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14">Relational schema modeling, query optimization, and transaction management with PostgreSQL.</text>
+  </g>
+
+  <!-- Bullet 4 -->
+  <g transform="translate(45, 245)">
+    <circle cx="10" cy="10" r="5" fill="#eab308"/>
+    <text x="25" y="14" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600">Algorithms &amp; Problem Solving:</text>
+    <text x="245" y="14" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14">Practical problem-solving and algorithmic complexity optimization in Java and Python.</text>
+  </g>
+
+  <rect class="card-border" x="2" y="2" width="916" height="316" rx="15" fill="none" stroke="#a855f7" stroke-width="1.8" opacity="0.6"/>
+  <rect x="5" y="5" width="910" height="310" rx="13" fill="none" stroke="#6366f1" stroke-width="1" opacity="0.3"/>
+</svg>

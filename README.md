@@ -2,47 +2,24 @@
 
 <img src="assets/hero_card.svg" width="100%" alt="JAIDUUU Hero Card" />
 
-</div>
+<br/><br/>
 
----
+<img src="assets/about_card.svg" width="100%" alt="About JAIDUUU" />
 
-### About
+<br/><br/>
 
-Software engineer focused on **Agentic AI systems, modern backend architectures, and algorithmic problem-solving**. I specialize in building stateful multi-agent workflows, scalable APIs, and robust data pipelines.
+<img src="assets/tech_card.svg" width="100%" alt="Tech Stack" />
 
-- 🤖 **Agentic AI:** Developing cyclical workflows, triage routers, and automated evaluation systems with **LangGraph** & **LangChain**.
-- ⚡ **Backend Engineering:** Building high-performance, asynchronous REST APIs with **Python**, **FastAPI**, and **SQLAlchemy**.
-- 🗄️ **Databases:** Relational schema modeling, query optimization, and transaction management with **PostgreSQL**.
-- 💡 **Data Structures & Algorithms:** Practical problem-solving and algorithmic complexity optimization in **Java** and **Python**.
+<br/><br/>
 
----
+### 📊 GitHub Activity
 
-### Tech Stack
-
-```text
-Languages          : Python, Java, SQL, Bash
-AI & Workflows     : LangGraph, LangChain, PyTorch, Scikit-Learn
-Backend & Web      : FastAPI, REST APIs, Pydantic, SQLAlchemy
-Databases          : PostgreSQL, MySQL
-Environment        : Linux, Git, Docker (Foundations)
-```
-
----
-
-### GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JAIDUUU&show_icons=true&theme=tokyonight&hide_border=true&title_color=818cf8&icon_color=6366f1&text_color=94a3b8&bg_color=0b0f19" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=JAIDUUU&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8&bg_color=051329" height="150" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JAIDUUU&theme=tokyonight&hide_border=true&stroke=6366f1&ring=818cf8&fire=6366f1&currStreakLabel=818cf8&background=0b0f19" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JAIDUUU&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=6366f1&fire=38bdf8&currStreakLabel=38bdf8&background=051329" height="150" />
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-<img src="assets/footer_card.svg" width="100%" alt="JAIDUUU Footer Warp Card" />
+<img src="assets/footer_card.svg" width="100%" alt="Connect Footer" />
 
 </div>
