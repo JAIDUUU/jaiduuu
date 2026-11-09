@@ -1,20 +1,6 @@
 <div align="center">
 
-<img src="assets/portrait.svg" width="280" alt="JAIDUUU" />
-
-<br/><br/>
-
-# JAIDUUU
-
-### Software Engineer • AI Systems & Backend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+<img src="assets/hero_card.svg" width="100%" alt="JAIDUUU Hero Card" />
 
 </div>
 
