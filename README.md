@@ -12,11 +12,7 @@
 
 <br/><br/>
 
-### 📊 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=JAIDUUU&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8&bg_color=051329" height="150" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JAIDUUU&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=6366f1&fire=38bdf8&currStreakLabel=38bdf8&background=051329" height="150" />
+<img src="assets/activity_card.svg" width="100%" alt="GitHub Activity & Streak Metrics" />
 
 <br/><br/>
 
