@@ -1,88 +1,73 @@
 <div align="center">
 
-# ⚡ Hey there, I'm Jaid! 
+<img src="https://raw.githubusercontent.com/JAIDUUU/jaiduuu/main/assets/avatar.png" width="160" style="border-radius: 50%; box-shadow: 0 0 25px rgba(99, 102, 241, 0.5);" alt="JAIDUUU" />
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Explorer;Agentic+AI+%26+LangGraph+Dev;Backend+Engineer+(FastAPI+%26+Python);Building+Intelligent+Autonomous+Systems">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Explorer;Agentic+AI+%26+LangGraph+Dev;Backend+Engineer+(FastAPI+%26+Python);Building+Intelligent+Autonomous+Systems" alt="Typing SVG" />
+<br/><br/>
+
+# JAID
+
+**AI / ML Engineer & Backend Architect**  
+*Building autonomous agentic workflows & high-throughput systems.*
+
+<br/>
+
+<a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=818CF8&center=true&vCenter=true&width=450&lines=%3E+specializing+in+Agentic+AI+%26+LangGraph;%3E+crafting+resilient+FastAPI+backends;%3E+architecting+autonomous+multi-agent+loops;%3E+shipping+production-ready+software">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=818CF8&center=true&vCenter=true&width=450&lines=%3E+specializing+in+Agentic+AI+%26+LangGraph;%3E+crafting+resilient+FastAPI+backends;%3E+architecting+autonomous+multi-agent+loops;%3E+shipping+production-ready+software" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <a href="https://github.com/JAIDUUU"><img src="https://img.shields.io/github/followers/JAIDUUU?style=for-the-badge&logo=github&color=6366F1&labelColor=0d1117" /></a>
-  <img src="https://komarev.com/ghpvc/?username=JAIDUUU&style=for-the-badge&color=6366F1&labelColor=0d1117&label=Profile+Views" />
-</p>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366F1,8B5CF6,EC4899&height=120&section=header" width="100%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20LangGraph-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20FastAPI%20%7C%20Groq-4f46e5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Environment-Linux%20%7C%20Neovim-312e81?style=flat-square" />
+</p>
 
 </div>
 
-### 🚀 About Me
+---
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Jaid"
-        self.role = "AI / ML & Backend Engineer"
-        self.focus = ["Agentic AI", "LangGraph", "LLM Workflows", "FastAPI"]
-        self.philosophy = "Turn research & algorithms into production-grade systems."
-    
-    def current_status(self):
-        return "Building autonomous AI agents & scalable backend architectures 🛠️"
+### ⚡ Snapshot
+
+```bash
+jaid@workstation:~$ neofetch --profile
+---------------------------------------
+OS          : Linux (Arch / Debian)
+Role        : AI / ML & Backend Engineer
+Core Focus  : Agentic AI, Graph Workflows & Microservices
+Frameworks  : LangGraph, LangChain, FastAPI, PyTorch
+Databases   : PostgreSQL, SQLAlchemy, Redis
+Methodology : Build -> Break -> Deep Dive -> Optimize
+Status      : Shipping projects that matter 🚀
 ```
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### 🛠️ Core Tech Arsenal
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%"><b>🤖 AI / ML & Agents</b></td>
-    <td align="center" width="25%"><b>⚡ Backend Engineering</b></td>
-    <td align="center" width="25%"><b>🗄️ Databases & Storage</b></td>
-    <td align="center" width="25%"><b>⚙️ Core & Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /><br/>
-      <code>LangChain</code> <code>LangGraph</code><br/>
-      <code>Groq</code> <code>Scikit-Learn</code><br/>
-      <code>NumPy</code> <code>Pandas</code>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=fastapi,python,java" /><br/>
-      <code>REST APIs</code> <code>Pydantic</code><br/>
-      <code>SQLAlchemy</code> <code>Authentication</code>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br/>
-      <code>Database Design</code><br/>
-      <code>Schema Optimization</code><br/>
-      <code>Complex SQL Queries</code>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash" /><br/>
-      <code>Docker (Foundations)</code><br/>
-      <code>Linux Scripting</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Domain | Technologies & Libraries |
+| :--- | :--- |
+| **Agentic AI & LLMs** | `LangGraph` `LangChain` `Groq API` `Prompt Engineering` `Structured Outputs (Pydantic)` |
+| **Machine Learning** | `PyTorch` `Scikit-Learn` `NumPy` `Pandas` `Matplotlib` |
+| **Backend & APIs** | `Python` `FastAPI` `REST APIs` `JWT Auth` `Java (DSA)` |
+| **Data & Storage** | `PostgreSQL` `MySQL` `SQLAlchemy ORM` `Database Normalization` |
+| **DevOps & Tooling** | `Git` `GitHub Actions` `Linux / Bash` `VS Code` `Jupyter` |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,pytorch,java,linux,git,bash" />
+
+</div>
 
 ---
 
-### 🧠 Core Focus Areas
+### 🧠 Architectural Highlights
 
-```
-┌───────────────────────────────┬────────────────────────────────────────────────────────┐
-│ Area                          │ What I'm Building & Solving                            │
-├───────────────────────────────┼────────────────────────────────────────────────────────┤
-│ 🤖 Agentic AI & Workflows     │ StateGraph architectures, iterative critique loops,    │
-│                               │ conditional triage routers & conversational agents      │
-├───────────────────────────────┼────────────────────────────────────────────────────────┤
-│ ⚡ Modern Backend Systems     │ High-concurrency FastAPI microservices, JWT auth &     │
-│                               │ clean database abstraction layers                      │
-├───────────────────────────────┼────────────────────────────────────────────────────────┤
-│ ☕ Problem Solving (DSA)      │ Algorithmic optimization, data structures in Java/Py   │
-└───────────────────────────────┴────────────────────────────────────────────────────────┘
-```
+- 🔄 **Autonomous Loops:** Designing StateGraph stateful systems with automated quality critic feedback loops and conditional triage routers.
+- ⚡ **High Concurrency:** Developing lightweight asynchronous APIs using FastAPI and Pydantic validation.
+- 🎯 **Pragmatic Engineering:** Writing clean, readable, modular code focused on architecture rather than boilerplate.
 
 ---
 
@@ -90,30 +75,32 @@ class Developer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JAIDUUU&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=8b5cf6&text_color=94a3b8&bg_color=0f172a" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JAIDUUU&theme=tokyonight&hide_border=true&stroke=6366f1&ring=8b5cf6&fire=ec4899&currStreakLabel=6366f1&background=0f172a" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=JAIDUUU&show_icons=true&theme=tokyonight&hide_border=true&title_color=818cf8&icon_color=6366f1&text_color=94a3b8&bg_color=0b0f19" height="155" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JAIDUUU&theme=tokyonight&hide_border=true&stroke=6366f1&ring=818cf8&fire=6366f1&currStreakLabel=818cf8&background=0b0f19" height="155" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAIDUUU&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=94a3b8&bg_color=0f172a" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAIDUUU&layout=compact&theme=tokyonight&hide_border=true&title_color=818cf8&text_color=94a3b8&bg_color=0b0f19" />
 
 </div>
 
 ---
 
-### 🤝 Let's Connect & Collaborate
-
 <div align="center">
 
+### 📬 Connect With Me
+
 <a href="https://github.com/JAIDUUU">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:JAIDZXXD@GMAIL.COM">
-  <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-6366f1?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366F1,8B5CF6,EC4899&height=80&section=footer" width="100%" />
+<sub>Crafted with passion for clean code & intelligent systems.</sub>
 
 </div>
