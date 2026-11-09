@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JAIDUUU/jaiduuu/main/assets/avatar.png" width="160" style="border-radius: 50%; box-shadow: 0 0 25px rgba(99, 102, 241, 0.5);" alt="JAIDUUU" />
+<img src="assets/portrait.svg" width="300" alt="JAIDUUU Dot-Matrix Portrait" />
 
 <br/><br/>
 
-# JAID
+# JAIDUUU
 
-**AI / ML Engineer & Backend Architect**  
-*Building autonomous agentic workflows & high-throughput systems.*
+**AI / ML • Agentic Systems • Backend Engineering**  
+*Building useful software, learning deeply, and shipping projects.*
 
 <br/>
 
@@ -18,42 +18,37 @@
 <br/><br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20LangGraph-6366f1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20FastAPI%20%7C%20Groq-4f46e5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Environment-Linux%20%7C%20Neovim-312e81?style=flat-square" />
+  <a href="https://github.com/JAIDUUU"><img src="https://img.shields.io/github/followers/JAIDUUU?label=Followers&style=flat-square&color=6366f1" /></a>
+  <img src="https://komarev.com/ghpvc/?username=JAIDUUU&style=flat-square&label=Profile+Views&color=6366f1" />
 </p>
 
 </div>
 
 ---
 
-### ⚡ Snapshot
+### 👨‍💻 About Me
 
-```bash
-jaid@workstation:~$ neofetch --profile
----------------------------------------
-OS          : Linux (Arch / Debian)
-Role        : AI / ML & Backend Engineer
-Core Focus  : Agentic AI, Graph Workflows & Microservices
-Frameworks  : LangGraph, LangChain, FastAPI, PyTorch
-Databases   : PostgreSQL, SQLAlchemy, Redis
-Methodology : Build -> Break -> Deep Dive -> Optimize
-Status      : Shipping projects that matter 🚀
-```
+I'm a developer focused on **AI/ML, backend engineering, and agentic AI**. I like turning what I learn into projects instead of keeping everything in notebooks and tutorials.
+
+- 🤖 Exploring **Machine Learning & AI**
+- 🧠 Building with **LangChain & LangGraph** (Iterative critique loops, stateful agents)
+- ⚡ Developing APIs with **Python & FastAPI**
+- ☕ Practicing **Java + DSA**
+- 🗄️ Working with **PostgreSQL, SQL & SQLAlchemy**
+- 🚀 Focused on real-world engineering and shipping reliable software
 
 ---
 
-### 🛠️ Core Tech Arsenal
+### 🛠️ Tech Stack & Capabilities
 
 <div align="center">
 
-| Domain | Technologies & Libraries |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Agentic AI & LLMs** | `LangGraph` `LangChain` `Groq API` `Prompt Engineering` `Structured Outputs (Pydantic)` |
-| **Machine Learning** | `PyTorch` `Scikit-Learn` `NumPy` `Pandas` `Matplotlib` |
-| **Backend & APIs** | `Python` `FastAPI` `REST APIs` `JWT Auth` `Java (DSA)` |
-| **Data & Storage** | `PostgreSQL` `MySQL` `SQLAlchemy ORM` `Database Normalization` |
-| **DevOps & Tooling** | `Git` `GitHub Actions` `Linux / Bash` `VS Code` `Jupyter` |
+| **Agentic AI & ML** | `LangGraph` `LangChain` `Groq API` `PyTorch` `Scikit-Learn` `NumPy` `Pandas` |
+| **Backend & APIs** | `Python` `FastAPI` `REST APIs` `Pydantic` `SQLAlchemy` `Java (DSA)` |
+| **Databases** | `PostgreSQL` `MySQL` `Database Design` `Complex SQL` |
+| **Tools & Platforms** | `Git` `GitHub` `Linux / Bash` `VS Code` `Jupyter` |
 
 <br/>
 
@@ -63,11 +58,11 @@ Status      : Shipping projects that matter 🚀
 
 ---
 
-### 🧠 Architectural Highlights
+### ⚡ Engineering Showcase & Highlights
 
-- 🔄 **Autonomous Loops:** Designing StateGraph stateful systems with automated quality critic feedback loops and conditional triage routers.
-- ⚡ **High Concurrency:** Developing lightweight asynchronous APIs using FastAPI and Pydantic validation.
-- 🎯 **Pragmatic Engineering:** Writing clean, readable, modular code focused on architecture rather than boilerplate.
+<div align="center">
+  <img src="assets/bento.svg" alt="Engineering Showcase & Performance" width="100%" />
+</div>
 
 ---
 
@@ -79,17 +74,13 @@ Status      : Shipping projects that matter 🚀
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAIDUUU&theme=tokyonight&hide_border=true&stroke=6366f1&ring=818cf8&fire=6366f1&currStreakLabel=818cf8&background=0b0f19" height="155" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAIDUUU&layout=compact&theme=tokyonight&hide_border=true&title_color=818cf8&text_color=94a3b8&bg_color=0b0f19" />
-
 </div>
 
 ---
 
 <div align="center">
 
-### 📬 Connect With Me
+### 🤝 Let's Connect
 
 <a href="https://github.com/JAIDUUU">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
@@ -101,6 +92,6 @@ Status      : Shipping projects that matter 🚀
 
 <br/><br/>
 
-<sub>Crafted with passion for clean code & intelligent systems.</sub>
+<sub>Progress over perfection. Build → break → understand → improve. ⚡</sub>
 
 </div>
