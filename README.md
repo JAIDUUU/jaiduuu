@@ -43,8 +43,6 @@ Environment        : Linux, Git, Docker (Foundations)
 
 <div align="center">
 
-### Contact
-
-[GitHub](https://github.com/JAIDUUU) • [Email](mailto:JAIDZXXD@GMAIL.COM)
+<img src="assets/footer_card.svg" width="100%" alt="JAIDUUU Footer Warp Card" />
 
 </div>
